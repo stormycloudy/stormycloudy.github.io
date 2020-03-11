@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First official WFH day
-slug: WFHday1
+slug: wfh-day1
 date: 2020-3-11 19:30
 status: publish
 author: <Shay L>
