@@ -14,7 +14,7 @@ excerpt:
 ---
 
 
-It's aleady 2020. 
+It's already 2020. 
 
 I moved to a new lab space on the survey side as the department is moving as a whole. 
 I am sitting in this new lab typing my first *real* blog on this site. 
@@ -23,11 +23,11 @@ I should probably treat this blog slash personal website more seriously, but, me
 
 Some expectations for 2020, as it just starts:
 
-1. Get more papers written. Or just in general, getting more writting done. 
+1. Get more papers written. Or just in general, get more writting done. 
 I should probably also revisit the book *How to Write a Lot*. 
 
 2. Find a better balance between my research and personal life. 
-I felt i've done much better in the previous year. 
+I felt I've done much better in the previous year. 
 Thanks to the important persons in my life.
 
 3. **Be happy**. In every aspect.
