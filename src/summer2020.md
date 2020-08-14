@@ -21,3 +21,5 @@ If you read news you'd probably get a sense of the doomsday's approaching. Who k
 
 Hopefully I'll still be thinking back about this day in decades.
 
+Right. Let me go back to my research.
+
