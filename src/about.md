@@ -12,5 +12,7 @@ tags:
   - blog
 ---
 
-I am a PhD student in atmospheric science. This is my personal blog. My research site can be found [here](http://pages.iu.edu/~xuecliu).
+I am a PhD student in atmospheric science at Indiana University. This is my personal blog. My research site can be found [here](http://pages.iu.edu/~xuecliu).
+
+**All views are my own.**
 
