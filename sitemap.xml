@@ -14,6 +14,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
     <url>
+        <loc>/archives/first_post_in_2021/</loc>
+        <lastmod>2021-01-02</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
         <loc>/archives/summer2020/</loc>
         <lastmod>2020-08-13</lastmod>
         <changefreq>always</changefreq>
